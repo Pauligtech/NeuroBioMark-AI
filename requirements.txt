@@ -1,0 +1,14 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+loguru
+simplejson
+streamlit
+fpdf2
+scikit-image
+scipy
+pillow
+google-genai>=1.52.0
+
+
